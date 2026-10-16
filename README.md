@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://homepal-india-teamsatyajitbeura.vercel.app/"><img src="assets/homepal-banner.svg" alt="HomePal — Your home, taken care of." width="100%"></a>
+  <a href="https://homepal-india.vercel.app/"><img src="assets/homepal-banner.svg" alt="HomePal — Your home, taken care of." width="100%"></a>
 
   <p><strong>Less household admin. More peace of mind.</strong></p>
 
-  <a href="https://homepal-india-teamsatyajitbeura.vercel.app/"><img src="assets/play-homepal.svg" alt="Open HomePal, live on Vercel"></a>
+  <a href="https://homepal-india.vercel.app/"><img src="assets/play-homepal.svg" alt="Open HomePal, live on Vercel"></a>
 
   <p>
     <img alt="Single-file app" src="https://img.shields.io/badge/BUILD-single%20file-17614A?style=flat-square">
